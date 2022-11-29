@@ -19,5 +19,4 @@
 * Увеличение кол-ва планет.
 * Посторонные объекты в космосе(спутники, кометы и т.д).
 ----
-**Ссылка на GitHub Pages**
- 
+[Ссылка на GitHub Pages](https://denissuvorovsky.github.io/earth-and-moon/)
