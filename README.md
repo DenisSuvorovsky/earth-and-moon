@@ -10,6 +10,7 @@
 **Стек технологий**
  * HTML
  * CSS
+ * JavaScript
  * WebGL
  * LUME
 ----
